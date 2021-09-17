@@ -9,5 +9,5 @@ Programs can be written in any language, In addition to the program,
  
 # Instructions for turning in via github classroom:
 
-To access the Homework2 repository, navigate to the following link: [](). The deadline is  **Sept. 30, 2021 at 23:00**.
+To access the Homework2 repository, navigate to the following link: [https://classroom.github.com/a/29DKsW-W](https://classroom.github.com/a/29DKsW-W). The deadline is  **Sept. 30, 2021 at 23:00**.
 
